@@ -5,3 +5,4 @@
 * [⚗ Chemistry](chemistry.md)
 * [💀 Math](math.md)
 * [💯 Higher Math](higher-math.md)
+* [👱♂ Log](log.md)
